@@ -16,5 +16,5 @@ else
 	distversion = "Development Snapshot"
 end
 
-luciname    = "BI4PCS"
+luciname    = "BH8VYK"
 luciversion = "MMDVM 4G 2022.09.22"
