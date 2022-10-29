@@ -17,4 +17,4 @@ else
 end
 
 luciname    = "BH8VYK"
-luciversion = "MMDVM 4G Bata0922"
+luciversion = "MMDVM 4G Bata1030"
